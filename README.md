@@ -1,4 +1,4 @@
-# [Mad Lib]
+# Mad Lib
 Version 0.0.1: August 15, 2016
 by [Katy Henning](https://katycodes.github.io/portfolio) and Kevin Johnston
 
